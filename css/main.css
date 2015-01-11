@@ -55,6 +55,7 @@ body {
 }
 
 p {
+    background-repeat: no-repeat;
     background-image: url("../images/middle-graphic.png");
     color: white;
     padding: 0;
