@@ -55,8 +55,9 @@ body {
 }
 
 p {
-    background-repeat: no-repeat;
     background-image: url("../images/middle-graphic.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
     color: white;
     padding: 0;
     margin: 0;
